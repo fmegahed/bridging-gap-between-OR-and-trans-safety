@@ -1,0 +1,161 @@
+Bibliometric Summary for Transportation Safety
+
+
+Main Information about data
+
+ Documents                             856 
+ Sources (Journals, Books, etc.)       402 
+ Keywords Plus (ID)                    1058 
+ Author's Keywords (DE)                1753 
+ Period                                1983 - 2018 
+ Average citations per documents       8.4 
+
+ Authors                               1783 
+ Author Appearances                    2538 
+ Authors of single authored documents  90 
+ Authors of multi authored documents   1693 
+
+ Documents per Author                  0.48 
+ Authors per Document                  2.08 
+ Co-Authors per Documents              2.96 
+ Collaboration Index                   2.47 
+ 
+ Document types                     
+ B                                     102 
+ J                                     617 
+ S                                     137 
+ 
+
+Annual Scientific Production
+
+ Year    Articles
+    1983        2
+    1984        1
+    1986        1
+    1989        1
+    1991        8
+    1992        1
+    1993        4
+    1994        5
+    1995        6
+    1996       10
+    1997       14
+    1998       10
+    1999       12
+    2000        8
+    2001       14
+    2002       12
+    2003       19
+    2004       31
+    2005       32
+    2006       35
+    2007       26
+    2008       39
+    2009       30
+    2010       46
+    2011       48
+    2012       49
+    2013       74
+    2014       68
+    2015       63
+    2016       81
+    2017       72
+    2018       34
+
+Annual Percentage Growth Rate 9.57006 
+
+
+Most Productive Authors
+
+   Authors        Articles Authors        Articles Fractionalized
+1     [ANONYMOUS]       23  [ANONYMOUS]                     23.00
+2     ABDEL-ATY M       21  PARKER R                         9.00
+3     LORD D            18  ABDEL-ATY M                      7.77
+4     PERSAUD B         15  LORD D                           7.53
+5     LIU P             11  VERMA M                          5.67
+6     VERMA M           11  BANIHASHEMI M                    5.50
+7     WANG W            11  PERSAUD B                        5.48
+8     BATTA R            9  TRACY PE                         5.00
+9     IVAN JN            9  D'AMICO E                        4.00
+10    KWON C             9  HESS G                           4.00
+
+
+Top manuscripts per citations
+
+                                                            Paper           TC TCperYear
+1  ERKUT E;VERTER V,(1998),OPER. RES.                                      148      7.40
+2  AKKERMAN R;FARAHANI P;GRUNOW M,(2010),OR SPECTRUM                       137     17.12
+3  GRECH D;MAZUR Z,(2004),PHYSICA A                                        126      9.00
+4  WAN JF;ZHANG DQ;ZHAO SJ;YANG LT;LLORET J,(2014),IEEE COMMUN. MAG.       123     30.75
+5  SHEN ZJM;QI L,(2007),EUR. J. OPER. RES.                                 123     11.18
+6  MITRA S;WASHINGTON S,(2007),ACCID. ANAL. PREV.                          117     10.64
+7  CALIENDO C;GUIDA M;PARISI A,(2007),ACCID. ANAL. PREV.                   113     10.27
+8  LI XG;LORD D;ZHANG YL;ME YC,(2008),ACCID. ANAL. PREV.                    98      9.80
+9  MOCCIA L;CORDEAU JF;GAUDIOSO M;LAPORTE G,(2006),NAV. RES. LOGIST.        95      7.92
+10 LEE C;HELLINGA B;SACCOMANNO F,(2006),TRANSP. RES. PT. C-EMERG. TECHNOL.  91      7.58
+
+
+Most Productive Countries (of corresponding authors)
+
+   Country   Articles   Freq SCP MCP
+1  USA            333 0.4464 294  39
+2  CHINA           88 0.1180  71  17
+3  CANADA          55 0.0737  42  13
+4  ITALY           51 0.0684  46   5
+5  IRAN            20 0.0268  19   1
+6  INDIA           17 0.0228  13   4
+7  AUSTRALIA       15 0.0201  10   5
+8  BELGIUM         13 0.0174  13   0
+9  GERMANY         11 0.0147   6   5
+10 FRANCE           9 0.0121   7   2
+
+
+SCP: Single Country Publications
+
+MCP: Multiple Country Publications
+
+
+Total Citations per Country
+
+     Country      Total Citations Average Article Citations
+1  USA                       3077                     9.240
+2  CANADA                     946                    17.200
+3  CHINA                      755                     8.580
+4  ITALY                      699                    13.706
+5  IRAN                       161                     8.050
+6  POLAND                     138                    27.600
+7  DENMARK                    137                   137.000
+8  BELGIUM                    129                     9.923
+9  KOREA                      104                    13.000
+10 SPAIN                       91                    10.111
+
+
+Most Relevant Sources
+
+                                         Sources        Articles
+1  ACCIDENT ANALYSIS AND PREVENTION                           68
+2  TRANSPORTATION RESEARCH RECORD                             62
+3  CHEMICAL WEEK                                              22
+4  TRANSPORTATION RESEARCH PART C-EMERGING TECHNOLOGIES       18
+5  CHEMICAL & ENGINEERING NEWS                                16
+6  JOURNAL OF LOSS PREVENTION IN THE PROCESS INDUSTRIES       16
+7  JOURNAL OF OCCUPATIONAL AND ENVIRONMENTAL MEDICINE         12
+8  JOURNAL OF TRANSPORTATION ENGINEERING-ASCE                 12
+9  TRANSPORTATION SCIENCE                                     12
+10 JOURNAL OF HAZARDOUS MATERIALS                             11
+
+
+Most Relevant Keywords
+
+            Author Keywords (DE)      Articles Keywords-Plus (ID)     Articles
+1  HAZARDOUS MATERIALS                      59    RISK                      63
+2  HAZMAT                                   43    MODELS                    53
+3  CRASH PREDICTION                         29    SAFETY                    47
+4  VEHICLE ROUTING                          24    MODEL                     45
+5  SAFETY                                   23    HAZARDOUS MATERIALS       35
+6  TRANSPORTATION                           22    NETWORK                   35
+7  CRASH PREDICTION MODELS                  19    ACCIDENTS                 32
+8  HAZARDOUS MATERIALS TRANSPORTATION       16    ROAD NETWORK              28
+9  RISK ASSESSMENT                          16    INTERSECTIONS             27
+10 RISK ANALYSIS                            15    OPTIMIZATION              27
+
